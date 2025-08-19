@@ -59,6 +59,8 @@
   <depend>isaac_ros_peoplenet_models_install</depend>
   <exec_depend>isaac_ros_detectnet</exec_depend>
 
+  <exec_depend>realsense_splitter</exec_depend>
+  
   <test_depend>ament_cmake_copyright</test_depend>
   <test_depend>ament_cmake_lint_cmake</test_depend>
   <test_depend>isaac_ros_test_cmake</test_depend>
